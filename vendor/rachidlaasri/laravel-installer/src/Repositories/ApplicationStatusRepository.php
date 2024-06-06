@@ -10,7 +10,7 @@ use Closure;
 
 class ApplicationStatusRepository implements ApplicationStatusRepositoryInterface
 {
-    public string $baseLicenseUrl = 'https://portal.liquid-themes.com/api/license';
+    public string $baseLicenseUrl = 'https://portal.liquid-themes.vn/api/license';
 
     public function licenseType(): ?string
     {

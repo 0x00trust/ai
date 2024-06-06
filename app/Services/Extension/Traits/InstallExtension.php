@@ -292,7 +292,7 @@ trait InstallExtension
     {
         $licenseKey = $licenseKey ?? Helper::settingTwo('liquid_license_domain_key');
 
-        $response = Http::get('https://portal.liquid-themes.com/api/license/'.$licenseKey);
+        $response = Http::get('https://portal.liquid-themes.vn/api/license/'.$licenseKey);
 
         if ($response->failed()) {
             return false;

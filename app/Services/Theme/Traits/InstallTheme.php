@@ -162,7 +162,7 @@ trait InstallTheme
     {
         $licenseKey = $licenseKey ?? Helper::settingTwo('liquid_license_domain_key');
 
-        $response = Http::get('https://portal.liquid-themes.com/api/license/'.DIRECTORY_SEPARATOR.$licenseKey);
+        $response = Http::get('https://portal.liquid-themes.vn/api/license/'.DIRECTORY_SEPARATOR.$licenseKey);
 
         if ($response->failed()) {
             return false;

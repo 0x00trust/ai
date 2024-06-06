@@ -167,7 +167,7 @@
                                 changelog(response.description);
                             } else {
                                 $('#update_description').html(
-                                    '<a href="https://magicaidocs.liquid-themes.com/changelog/" target="_blank">Visit Changelog on the Documentation Page</a>'
+                                    '<a href="https://magicaidocs.liquid-themes.vn/changelog/" target="_blank">Visit Changelog on the Documentation Page</a>'
                                 );
                             }
                         }

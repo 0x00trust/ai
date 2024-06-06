@@ -126,7 +126,7 @@
     </svg>
     <form
             class="mb-6"
-            action="https://portal.liquid-themes.com/license/activate"
+            action="https://portal.liquid-themes.vn/license/activate"
             method="GET"
             target="{{ $target }}"
     >
@@ -134,7 +134,7 @@
         <p class="mb-4 text-[15px] leading-[1.53em] text-heading-foreground lg:mx-auto lg:w-2/3">
             {{ __('Thanks for purchashing') }} {{ $site_name }}! {{ __('Please connect to') }} <a
                     class="underline"
-                    href="https://portal.liquid-themes.com"
+                    href="https://portal.liquid-themes.vn"
             ><strong>Liquid Portal</strong></a> {{ __('to verify your purchase.') }}
         </p>
         <input
@@ -199,6 +199,6 @@
     <p class="text-center">{{ __('Having trouble?') }} <a
                 class="font-medium underline"
                 target="_blank"
-                href="https://magicaidocs.liquid-themes.com/activation/"
+                href="https://magicaidocs.liquid-themes.vn/activation/"
         >{{ __('Check documentations') }}</a></p>
 </x-card>

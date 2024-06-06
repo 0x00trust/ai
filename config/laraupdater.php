@@ -10,7 +10,7 @@
 
 		'script_filename' => 'upgrade.php',
 
-		'update_baseurl' => 'https://api.liquid-themes.com/magicai/update-temporary',
+		'update_baseurl' => 'https://api.liquid-themes.vn/magicai/update-temporary',
 
 		'middleware' => ['web', 'auth'],
 

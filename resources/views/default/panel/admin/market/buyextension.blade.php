@@ -53,7 +53,7 @@
 @push('script')
     <script src="{{ custom_theme_url('https://js.stripe.com/v3/') }}"></script>
     <script>
-        const publicKeyUrl = "https://portal.liquid-themes.com/api/pkey";
+        const publicKeyUrl = "https://portal.liquid-themes.vn/api/pkey";
         fetch(publicKeyUrl)
             .then((response) => response.json())
             .then((data) => {

@@ -3,7 +3,7 @@
         <div class="flex items-center gap-4">
             <div class="grow basis-full md:basis-0 lg:ms-auto">
                 <p>{{ __('Version') }}: {{ format_double($setting->script_version) }}</p>
-                @if(request()->getHost() == 'magicai.test' || request()->getHost() == 'stagingmagicai.liquid-themes.com')
+                @if(request()->getHost() == 'magicai.test' || request()->getHost() == 'stagingmagicai.liquid-themes.vn')
                     {{ microtime(true) - LARAVEL_START }}
                 @endif
             </div>

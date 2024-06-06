@@ -26,7 +26,7 @@
                         {{ __('Congate, Razorpay or Yookassa subscriptions require you to set up cron jobs on your server. You can find detailed instructions in ') }}
                         <a
                             class="underline"
-                            href="https://magicaidocs.liquid-themes.com/how-to-configure-cron-jobs-on-cpanel/"
+                            href="https://magicaidocs.liquid-themes.vn/how-to-configure-cron-jobs-on-cpanel/"
                         >
                             {{ __('the documentation.') }}
                         </a>
@@ -53,7 +53,7 @@
                         ) !!} <a
                             class="underline"
                             target="_blank"
-                            href="https://magicaidocs.liquid-themes.com/how-to-configure-cron-jobs-on-cpanel"
+                            href="https://magicaidocs.liquid-themes.vn/how-to-configure-cron-jobs-on-cpanel"
                         >
                             {{ __('documentation') }}
                         </a>.

@@ -29,7 +29,7 @@ INSERT INTO extensions (
         0,
         '2024-02-20 07:22:50',
         '2024-03-06 12:17:00',
-        'https://api.liquid-themes.com/magicai/extensions/icons/wordpress.png',
+        'https://api.liquid-themes.vn/magicai/extensions/icons/wordpress.png',
         '<p>
 Experience unparalleled control over your content creation and publishing journey with MagicAI. With MagicAI’s revolutionary extension, convenience reaches new heights as we automate the entire process of generating and publishing articles directly to your WordPress platform.
 </p>

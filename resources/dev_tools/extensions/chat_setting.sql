@@ -28,7 +28,7 @@ INSERT INTO extensions (
         0,
         '2024-02-20 07:22:50',
         '2024-03-06 12:17:00',
-        'https://api.liquid-themes.com/magicai/extensions/icons/chat-setting.png',
+        'https://api.liquid-themes.vn/magicai/extensions/icons/chat-setting.png',
         '<h4>Custom Chatbot Training (For End-Users)</h4>
 <hr>
 This extension <strong>allows your users to train their custom chatbots with websites, PDFs or even text.</strong> Users can curate or provide training data that aligns with the desired persona. The ability to train custom chatbots with websites, PDF and custom text integration enriches the chatbot’s knowledge base and improves its ability to provide useful and contextually relevant responses to user inquiries. By extending the capability for users to train their custom chatbots with websites, PDFs, or even text, you’re providing them with a powerful tool to tailor their chatbot’s knowledge and capabilities to their specific needs.The chatbot’s underlying machine learning model is trained on this processed data, learning to understand and respond to user queries based on the content extracted from PDFs, texts and web links.

@@ -28,7 +28,7 @@ VALUES (
         0,
         '2024-02-20 07:22:50',
         '2024-03-06 12:17:00',
-        'https://api.liquid-themes.com/magicai/extensions/icons/cloudflare-r2.png',
+        'https://api.liquid-themes.vn/magicai/extensions/icons/cloudflare-r2.png',
         'With Cloudflare seamlessly integrated into MagicAI, you can trust that your files, documents, and sensitive data are stored securely in the cloud. As your business grows and your data needs expand, rest assured that different storage platforms can effortlessly handle increasing demands, thanks to Cloudflare’s scalable infrastructure. Experience enhanced security, lightning-fast performance, and limitless scalability with MagicAI & CloudFlare.',
         0,
         29,

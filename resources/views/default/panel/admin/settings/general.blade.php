@@ -272,7 +272,7 @@
             <div class="mb-3">
                 <x-alert class="rounde mb-4">
                     <a
-                        href="https://magicaidocs.liquid-themes.com/social-login"
+                        href="https://magicaidocs.liquid-themes.vn/social-login"
                         target="_blank"
                     >
                         {{ __('Check the documentation.') }}

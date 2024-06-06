@@ -108,7 +108,7 @@
                     @endif
                     <x-alert class="mt-2">
                         <p>
-                            {{ __('Please do not enter / at the end of the url. For Example; https://liquid-themes.com') }}
+                            {{ __('Please do not enter / at the end of the url. For Example; https://liquid-themes.vn') }}
                         </p>
                     </x-alert>
                 </div>

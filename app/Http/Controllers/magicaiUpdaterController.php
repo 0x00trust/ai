@@ -291,7 +291,7 @@ class magicaiUpdaterController extends Controller
 
     private function getLastVersion() {
         $curl = curl_init();
-        $url = 'https://api.liquid-themes.com/magicai/updater-v2' . '/magicaiupdater.json';
+        $url = 'https://api.liquid-themes.vn/magicai/updater-v2' . '/magicaiupdater.json';
 
         curl_setopt($curl, CURLOPT_URL, $url);
         curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);

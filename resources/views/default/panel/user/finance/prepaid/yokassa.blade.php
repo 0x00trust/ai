@@ -34,7 +34,7 @@
 
         const checkout = new window.YooMoneyCheckoutWidget({
             confirmation_token: '{{ $confirmation_token }}', //Token that must be obtained from YooMoney before the payment process
-            //return_url: 'https://stagingmagicai.liquid-themes.com/dashboard/user/', //Link to the payment completion page, it could be any page on your website
+            //return_url: 'https://stagingmagicai.liquid-themes.vn/dashboard/user/', //Link to the payment completion page, it could be any page on your website
             error_callback: function(error) {
                 console.log(error)
             }

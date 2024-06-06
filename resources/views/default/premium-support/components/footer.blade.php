@@ -39,9 +39,9 @@
                 @lang('Seats are limited. Enterprises seeking tailored solutions can contact us at')
                 <a
                     class="text-white"
-                    href="mailto:info@liquid-themes.com."
+                    href="mailto:info@liquid-themes.vn."
                 >
-                    info@liquid-themes.com.
+                    info@liquid-themes.vn.
                 </a>
             </p>
         </div>

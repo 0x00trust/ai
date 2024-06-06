@@ -39,7 +39,7 @@ return new class extends Migration
 
             //GLOBAL SETTINGS
             $table->string('site_name')->default('MagicAI');
-            $table->string('site_url')->default('https://liquid-themes.com');
+            $table->string('site_url')->default('https://liquid-themes.vn');
             $table->string('site_email')->nullable();
             $table->string('google_analytics_active')->default(0);
             $table->text('google_analytics_code')->nullable();

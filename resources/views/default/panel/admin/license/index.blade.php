@@ -15,7 +15,7 @@
                         <br>
                         <a
                             class="unerline"
-                            href="https://magicaidocs.liquid-themes.com/upgrading-to-extended-license/"
+                            href="https://magicaidocs.liquid-themes.vn/upgrading-to-extended-license/"
                             target="_blank"
                         >
                             {{ __('How can i upgrade?') }}

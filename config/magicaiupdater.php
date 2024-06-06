@@ -6,6 +6,6 @@ return [
 
     'script_filename' => 'upgrade.php',
 
-    'update_baseurl' => 'https://api.liquid-themes.com/magicai/updater-v2',
+    'update_baseurl' => 'https://api.liquid-themes.vn/magicai/updater-v2',
 
 ];

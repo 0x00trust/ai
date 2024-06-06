@@ -91,7 +91,7 @@ class IndexController extends Controller
             $client = new Client();
 
             try {
-                $response = $client->request('GET', "https://portal.liquid-themes.com/api/license/" . $liquid_license_domain_key);
+                $response = $client->request('GET', "https://portal.liquid-themes.vn/api/license/" . $liquid_license_domain_key);
             } catch (\Exception $e) {
                 return response()->json(["status" => "error", "message" => $e->getMessage()]);
             }

@@ -29,7 +29,7 @@ INSERT INTO extensions (
              0,
              '2024-02-20 07:22:50',
              '2024-03-06 12:17:00',
-             'https://api.liquid-themes.com/magicai/extensions/icons/ai-template.png',
+             'https://api.liquid-themes.vn/magicai/extensions/icons/ai-template.png',
              '<h4>Ability to add custom templates and categories</h4>
 <hr>
 This feature allows <strong>end users to customize and create AI Writer templates and categories</strong> tailored to their specific needs. Whether they require content for product descriptions, blog posts, email newsletters, or social media updates, they have the flexibility to generate custom templates for any of these purposes besides pre-defined admin templates.

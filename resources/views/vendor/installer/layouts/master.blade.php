@@ -423,7 +423,7 @@
     <a
             class="size-10 inline-flex items-center justify-center rounded-full border border-black border-opacity-10 transition-all hover:border-black hover:bg-black hover:text-white"
             target="_blank"
-            href="https://magicaidocs.liquid-themes.com/"
+            href="https://magicaidocs.liquid-themes.vn/"
     >
         <svg
                 class="icon icon-tabler icon-tabler-question-mark"
