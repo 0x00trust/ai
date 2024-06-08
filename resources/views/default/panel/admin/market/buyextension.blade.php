@@ -41,7 +41,7 @@
 
             <iframe
                 scrolling="no"
-                src="https://marketplace.projecthub.ai/{{ $token }}"
+                src="https://marketplace.projecthub.vn/{{ $token }}"
                 width="100%"
                 height="1050"
                 title="{{ $extension->name }}"

@@ -10,7 +10,7 @@ use RachidLaasri\LaravelInstaller\Repositories\ApplicationStatusRepository;
 
 class ExtensionRepository implements ExtensionRepositoryInterface
 {
-    public const API_URL = 'https://magicmarket.projecthub.ai/api/';
+    public const API_URL = 'https://magicmarket.projecthub.vn/api/';
 
     public function licensed(array $data): array
     {
